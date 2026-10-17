@@ -1,0 +1,48 @@
+HOW TO PLAY GALAGA 94 V2.1
+컴컴컴컴컴컴컴컴컴컴컴컴컴
+Ok, here are the instructions for this fabolous game :
+
+1) START NEW GAME / TITLE SCREEN
+Press F2 at the title screen to change difficulty level.
+Press F1 at the title screen to start a new game.
+Press F10 at (guess where) to quit and exit to DOS.
+Press ESC during the game to return to this screen.
+
+2) ACTION KEYS
+Use the following keys during the game to control your fighter:
+Cursor left  : Move left
+Cursor right : Move right
+Cursor up    : Start (use it to continue certain occasions)
+Right shift  : FIRE ! (use it to blast all that alien scum ...)
+Enter        : MEGABOMB ! (limited...)
+ESC          : Exit 
+
+3) THE REAL SENSE OF THIS GAME
+Did you ever wish to blast tons of little pixel images out of your
+home computers universe ? OK. Here you go....
+This is not really a sophisticated game but it should be a lot of fun
+for those who like it.
+
+4) WEAPONS
+You start with a ship capable of firing 3 rockets a time. You can increase
+this number by collecting extras. You also start with 3 mega bombs. Mega 
+bombs destroy all falling bombs and enemies within a certain range.
+
+5) EXTRAS
+There are a six different kind of extras :
+I  ) SIDEWINDER : Your ship can carry two sidewinders and every sidewinder
+                can carry 3 rockets. As your ship is only able to hold
+                6 rockets, this makes a full equiped ship with...
+                ah yes : 12 rockets !
+II ) ROCKETS    : Catching this extra gives you +3 rockets, if your ship is
+                able to get them (sidewinders...)                 
+III) MEGABOMB   : ..really a fine thing. A megabomb destroys all bombs and
+                enemys within a certain distance.
+IV ) SHIELD     : Makes you invulnerable for 10 seconds.
+V  ) EXTRA LIVE : Extra life ...
+VI ) SCORE      : Increases your score (1000 Points)
+
+Everytime you have blasted away 20 enemy ships, a bonus bringer comes up,
+it is a little green ship, and an acustic warning can be heared.
+                               
+-APSS 94-

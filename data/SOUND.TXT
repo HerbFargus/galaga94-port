@@ -1,0 +1,28 @@
+GALAGA 94 V2.1 AND DIGITAL SOUND FX:
+컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+This version of GALAGA 94 supports digital sound fx. The standard driver
+for the Sound Blaster V2.0 (Creative Labs) is included. This driver is
+compatible only to some cards. If you have a SB Pro or SB 16 / 32 or any
+other Card with a higher standard than the SB 2.0, you have to do as fol-
+lows to make it work with GALAGA:
+
+Search for a driver which supports the CT-VOICE format. Any Creative Labs
+soundcard has such a driver, only the names are slightly different. For
+Example the driver included in the SB16-Package may be called CTV16.DRV or 
+so... I am sorry that I did not have the time to collect all this drivers
+and include them.
+When you have found your driver, copy it into the GALAGA directory and
+rename it to FX_SB.DRV ! (You probably will have to delete or rename the
+old driver first...)
+
+Then install the driver with SETUP.EXE and ... enjoy !
+
+I gave this game to a lot of beta-testers before I posted it. It worked
+without any Problems on ALL SOUNBLASTER CARDS and the THUNDERBOARD. 
+I will try to collect all the drivers from this people and maybe post a
+little update...
+
+YEP. That's all.
+
+
+

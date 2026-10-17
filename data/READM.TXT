@@ -1,0 +1,47 @@
+WELCOME TO GALAGA 94 VERSION 2.1
+--------------------------------
+
+This game was entirely designed by Arnold Pichler. That's me ! I hope
+I fixed all the bugs of version 1. Thanx to all the people who send
+me an E-mail. I decided to post the full version of the game this time.
+Because I really don't know if there will be another version (I fact
+I don't think so...). 
+
+IMPROVEMENTS:
+-------------
+Of course this game needed really funky sound fx, so now GALAGA 
+supports sound blaster. It will also work with any other compatible 
+cards, but you may have to install your own driver. 
+Joystick is supported, but you have to choose between keys or joy-
+stick - not really a severe bug I guess. Finaly, the score table 
+changed a little bit, the difficulty level is added to your score. 
+If you want to erase the score table, just delete SCORES.DTA and 
+restart galaga, the game will build an empty new score table.
+
+SPEED / EQUIPMENT
+-----------------
+GALAGA was written to run on every PC/AT (not XT, is there still 
+anybody...?). On slow machines the animation will be a little bit
+cheesy, not as smooth as on my Intel 787/500Mhz ! Sorry for that.
+
+MAILWARE !!!
+------------
+Again: I do not want money for this game. (Nobody would pay anyway.)
+So the only thing you are supposed to do is to write me or to send
+me an E-mail. Both adresses at the end of that story.
+
+GREETINGS :
+-----------
+Hello to anybody who knows me ! Hopy you're well. Thanx to anybody
+who wrote me. I am sorry I didn't find the time to post the full
+version to anyone ! If you like my work , look out for my next game !
+
+
+
+
+             WRITE TO:                   E-MAIL:
+             ---------                   -------
+           ARNOLD PICHLER                HUBU@SZTMA.TU-GRAZ.AC.AT
+         PAPPENHEIMGASSE 9
+            8010 GRAZ              
+             AUSTRIA
